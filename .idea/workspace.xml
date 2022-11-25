@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07af08b3-3267-4ccb-8349-5ba8cd3f938c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exFacul/main19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exFacul/main20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tde2/ArthurOliveira_Deques.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tde2/ArthurOliveira_Filas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tde2/ArthurOliveira_Pilhas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tde2/ArthurOliveira_Recursividade.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exFacul/main18.py" beforeDir="false" afterPath="$PROJECT_DIR$/exFacul/main18.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +33,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/536548/Documents/Estudos/PycharmProjects/tde2",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.main20">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\536548\Documents\Estudos\PycharmProjects\tde2" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="main16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
