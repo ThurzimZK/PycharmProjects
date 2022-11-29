@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07af08b3-3267-4ccb-8349-5ba8cd3f938c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tde2/ArthurOliveira_Deques.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tde2/ArthurOliveira_Filas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tde2/ArthurOliveira_Pilhas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tde2/ArthurOliveira_Recursividade.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="07af08b3-3267-4ccb-8349-5ba8cd3f938c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
